@@ -1,7 +1,6 @@
 # 👨‍💻 Muhammad Riaz's GitHub Portfolio
 
 - I’m **Muhammad Riaz**, a Full Stack Developer focusing on **ASP.NET Core**, **C#**, and **Web Development**.
-- Certifications: **None yet**, but passionate about continuous learning.
 
 ---
 
@@ -17,8 +16,6 @@
 
 ![Muhammad Riaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gitmxr&show_icons=true&theme=tokyonight&bg_color=00000000)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gitmxr&layout=compact&theme=tokyonight&bg_color=00000000)
-
----
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yourGitHubUsername&theme=tokyonight&background=00000000)](https://git.io/streak-stats)
 
