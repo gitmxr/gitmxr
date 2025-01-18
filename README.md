@@ -34,4 +34,5 @@ I am a passionate developer always striving to learn and explore new technologie
 
 ## 📫 Let's Connect!
 - **LinkedIn**: [Your LinkedIn Profile](#)
-- **Email**: [Your Email Address](mailto:youremail@example.com)
+- **Email**: [Your Email Address](mailto:youremail@example.com
+- **Email**: riazdev18@gmail.com
