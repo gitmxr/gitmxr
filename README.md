@@ -24,7 +24,7 @@
 
 I'm a **Full Stack Developer** specializing in the **Microsoft Tech Stack** and **Intelligent Systems**, currently based in **Islamabad, Pakistan** 🇵🇰. I focus on creating seamless user experiences backed by powerful, well-architected server-side logic and semantic search technologies.
 
-- 🔭 Currently working at **AIGenMat** as a Software Engineer
+- 🔭 Currently working at **Softech Business Services** as a Software Engineer
 - 🌱 Recently earned my **AZ-104 Azure Administrator Associate** certification
 - 💬 Ask me about **ASP.NET Core, React.js, Python, and Search Architectures**
 - 📫 Reach me at **riazdev18@gmail.com**
