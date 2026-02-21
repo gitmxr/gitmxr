@@ -102,8 +102,10 @@ I'm a **Full Stack Developer** specializing in the **Microsoft Tech Stack** and 
 | 🎓 **Examify** | Online examination system with role-based auth and AI chatbot support | `ASP.NET Core` `React.js` `Dialogflow` `SQL Server` |
 | 🥧 **Bethany’s Pie Shop** | E-commerce solution featuring secure payments and Identity Framework | `ASP.NET Core` `Azure SQL` `EF Core` `Identity` |
 | 🎬 **FilmFlare** | Real-time movie & music discovery platform with API integrations | `React.js` `Tailwind CSS` `TMDb API` `YouTube API` |
+| 🔎 **E-Bazaar Intelligent Search & Frontend Revamp** | Built a hybrid multilingual product search engine (English & Roman Urdu) with fuzzy matching, BM25, spell correction, and embedding-based ranking, and revamped the E-Bazaar frontend using React for improved performance and UX | `Python` `FastAPI` `BM25` `Sentence Transformers` `React.js` `RapidFuzz` |
 
 </div>
+
 
 ---
 
