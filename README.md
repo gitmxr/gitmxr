@@ -75,7 +75,7 @@ I'm a **Full Stack Developer** specializing in the **Microsoft Tech Stack** and 
 <td width="100%" valign="top">
 
 ### 🏢 Softech Business Services
-**Software Engineer (Part-time)** • *Nov 2019 - Present*
+**Software Engineer -- Full-time (Onsite)** • *Nov 2019 - Present*
 
 #### 🔍 Project 1: Intelligent Product Search System
 - 🚀 Designed a custom e-commerce search engine supporting **English and Roman Urdu** queries.
